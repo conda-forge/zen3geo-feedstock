@@ -1,7 +1,7 @@
 About zen3geo
 =============
 
-Home: None
+Home: https://zen3geo.readthedocs.io
 
 Package license: LGPL-3.0-or-later
 
