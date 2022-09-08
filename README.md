@@ -1,13 +1,17 @@
 About zen3geo
 =============
 
-Home: None
+Home: https://zen3geo.readthedocs.io
 
 Package license: LGPL-3.0-or-later
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/zen3geo-feedstock/blob/main/LICENSE.txt)
 
 Summary: The 🌏 data science library you've been waiting for~
+
+Development: https://github.com/weiji14/zen3geo
+
+Documentation: https://zen3geo.readthedocs.io
 
 Current build status
 ====================

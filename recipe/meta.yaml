@@ -33,11 +33,13 @@ test:
     - pip
 
 about:
-  home: None
+  home: https://zen3geo.readthedocs.io
   summary: The 🌏 data science library you've been waiting for~
   license: LGPL-3.0-or-later
   license_file:
     - LICENSE.md
+  doc_url: https://zen3geo.readthedocs.io
+  dev_url: https://github.com/weiji14/zen3geo
 
 extra:
   recipe-maintainers:
