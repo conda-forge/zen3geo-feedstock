@@ -1,5 +1,5 @@
 {% set name = "zen3geo" %}
-{% set version = "0.3.0" %}
+{% set version = "0.4.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/zen3geo-{{ version }}.tar.gz
-  sha256: 09e84306809d03899155510f75dff83023e301c95bb0835b7bf5c34e58c72720
+  sha256: 5b6a04ec45278a7f9e8e63024fcb28cfe78d08407f2d1e535aa7119e96f0b8e7
 
 build:
   noarch: python
