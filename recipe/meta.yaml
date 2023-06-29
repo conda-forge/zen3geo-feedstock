@@ -1,5 +1,5 @@
 {% set name = "zen3geo" %}
-{% set version = "0.6.1" %}
+{% set version = "0.6.2" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/zen3geo-{{ version }}.tar.gz
-  sha256: c3087ddc9f900019b16660fcf6bf5bcbf33a9201faaa39c697b0d993da5e5108
+  sha256: ddf10c9d1c580eb2e156b42166fcdea47fd3f9ad0cd33695f0caa53773caa38f
 
 build:
   noarch: python
@@ -17,7 +17,7 @@ build:
 requirements:
   host:
     - pip
-    - poetry-core >=1.5.0
+    - poetry-core >=1.6.0
     - python >=3.8,<4.0
   run:
     - python >=3.8,<4.0
